@@ -1,0 +1,28 @@
+{
+  "name": "web-bluetooth-drone-gamepad",
+  "version": "1.0.0",
+  "description": "Control a Drone using Bluetooth APIs in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimbleape/web-bluetooth-drone-gamepad.git"
+  },
+  "keywords": [
+    "bluetooth",
+    "parrot",
+    "gamepad",
+    "rolling-spider"
+  ],
+  "author": "Dan Jenkins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimbleape/web-bluetooth-drone-gamepad/issues"
+  },
+  "homepage": "https://github.com/nimbleape/web-bluetooth-drone-gamepad#readme",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  }
+}
